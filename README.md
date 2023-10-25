@@ -9,3 +9,5 @@
 .......................................
 https://github.com/vergecurrency/erc20
 ```
+contract: 0x85614a474dbeed440d5bbdb8ac50b0f22367f997#code
+https://etherscan.io/address/0x85614a474dbeed440d5bbdb8ac50b0f22367f997#code
