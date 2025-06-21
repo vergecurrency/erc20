@@ -1,3 +1,5 @@
+![Banner](https://raw.githubusercontent.com/vergecurrency/erc20/refs/heads/main/banners/600x200banner.png)
+
 XVG ERC-20 Token Suite
 ===
 ```
