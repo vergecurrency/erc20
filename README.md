@@ -34,8 +34,8 @@ ____  _______   ______________________________  .____    _____.___.
 /___/\  \   \___/  \______   |____|   \_______  /_______ \/ ______|
        \_/                 \/                 \/        \/\/ 
 ```
-XVGPOLY (XVG on Polygon)
-https://polygonscan.com/token/0xe061aa40be525a13296cb4bf69f513242349d708
+XVGPOLY (XVG on Polygon)<br>
+https://polygonscan.com/token/0xe061aa40be525a13296cb4bf69f513242349d708<br>
 https://www.dextools.io/app/en/token/xvgpoly
 
 ```
@@ -46,8 +46,8 @@ ____  _______   ______________________  __________________   ___
 /___/\  \   \___/  \______  /|______  /_______  / \______   /\ /
       \_/                 \/        \/        \/          \/ (_)
 ```
-XVGBSC (XVG on Binance Smart Chain)
-https://bscscan.com/token/0xe061aa40be525a13296cb4bf69f513242349d708
+XVGBSC (XVG on Binance Smart Chain)<br>
+https://bscscan.com/token/0xe061aa40be525a13296cb4bf69f513242349d708<br>
 https://www.dextools.io/app/en/token/xvgbsc
 
 ```
@@ -58,8 +58,8 @@ ____  _______   ______________________    _____    ____________________ ___
 /___/\  \   \___/  \______  /|______  /\____|__  /_______  / /______  / \_/
       \_/                 \/        \/         \/        \/         \/  (_)
 ```
-XVGBASE (XVG on Coinbase Base Network)
-https://basescan.org/token/0xe061aa40be525a13296cb4bf69f513242349d708
+XVGBASE (XVG on Coinbase Base Network)<br>
+https://basescan.org/token/0xe061aa40be525a13296cb4bf69f513242349d708<br>
 https://www.dextools.io/app/en/token/xvgbase
 
 ```
@@ -70,8 +70,8 @@ https://www.dextools.io/app/en/token/xvgbase
  /___/\  \   \___/  \______  /\____|__  /____|_  /|______  /2o25
        \_/                 \/         \/       \/        \/ 
 ```
-XVGARB (XVG on Arbitrum One)
-https://arbiscan.io/token/0xe061Aa40Be525A13296CB4Bf69f513242349D708
+XVGARB (XVG on Arbitrum One)<br>
+https://arbiscan.io/token/0xe061Aa40Be525A13296CB4Bf69f513242349D708<br>
 https://www.dextools.io/app/en/token/xvgarb
 
 ```
@@ -82,8 +82,8 @@ https://www.dextools.io/app/en/token/xvgarb
  /___/\  \   \___/  \______  /\____|__  /\___/\____|__  /2o25!
        \_/                 \/         \/              \/ 
 ```
-XVGAVA (XVG on Avalanche C-Chain)
-https://snowtrace.io/token/0xe061Aa40Be525A13296CB4Bf69f513242349D708
+XVGAVA (XVG on Avalanche C-Chain)<br>
+https://snowtrace.io/token/0xe061Aa40Be525A13296CB4Bf69f513242349D708<br>
 https://www.dextools.io/app/en/token/xvgava
 
 ```
@@ -94,8 +94,8 @@ https://www.dextools.io/app/en/token/xvgava
  /___/\  \   \___/  \______  /_______ \__\____|__  /2o25
        \_/                 \/        \/          \/ 
 ```
-XVGLIN (XVG on Linea Network)
-https://lineascan.build/token/0xe061aa40be525a13296cb4bf69f513242349d708
+XVGLIN (XVG on Linea Network)<br>
+https://lineascan.build/token/0xe061aa40be525a13296cb4bf69f513242349d708<br>
 (DEXTOOLS LINK COMING SOON!)
 
 ```
@@ -106,8 +106,8 @@ https://lineascan.build/token/0xe061aa40be525a13296cb4bf69f513242349d708
  /___/\  \   \___/  \______  /\_______  /____|     |____|2o25
        \_/                 \/         \/                    
 ```
-XVGOPT (XVG on Optimism)
-https://optimistic.etherscan.io/token/0xe061Aa40Be525A13296CB4Bf69f513242349D708
+XVGOPT (XVG on Optimism)<Br>
+https://optimistic.etherscan.io/token/0xe061Aa40Be525A13296CB4Bf69f513242349D708<br> 
 https://www.dextools.io/app/en/token/xvgopt
 
 ```
@@ -118,8 +118,8 @@ https://www.dextools.io/app/en/token/xvgopt
  /___/\  \   \___/  \______  /_______  /\_______  /\____|__  /2o25
        \_/                 \/        \/         \/         \/ 
 ```
-XVGSON (XVG on Sonic Labs)
-https://sonicscan.org/token/0xe061aa40be525a13296cb4bf69f513242349d708
+XVGSON (XVG on Sonic Labs)<br>
+https://sonicscan.org/token/0xe061aa40be525a13296cb4bf69f513242349d708<br>
 https://www.dextools.io/app/en/token/xvgson
 
 ```
@@ -130,8 +130,8 @@ https://www.dextools.io/app/en/token/xvgson
  /___/\  \   \___/  \______  /_______ \____|__ \/_______  /2o25
        \_/                 \/        \/       \/        \/ 
 ```
-XVGzkE (XVG on zkSync Era Main)
-https://era.zksync.network/token/0xe061aa40be525a13296cb4bf69f513242349d708
+XVGzkE (XVG on zkSync Era Main)<br>
+https://era.zksync.network/token/0xe061aa40be525a13296cb4bf69f513242349d708<br>
 https://www.dextools.io/app/en/token/xvgzke
 
 
